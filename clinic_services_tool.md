@@ -1,8 +1,10 @@
 **TOOL PROMPT:**
 - **Objective:** Answer the user's query, `{{#1763495423278.query#}}`, using the information from the services list below.
 - **Rule 1:** Your response must be in the same language as the user's query.
-- **Rule 2:** Extract only the relevant information needed to answer the query. Do not include any extra details.
+- **Rule 2:** Extract only the relevant information needed to answer the query. Do not include any extra details unless specified by another rule.
 - **Rule 3:** Formulate a direct and concise answer. Do not add any conversational filler or introductory phrases.
+- **Rule 4:** If the user's query is about a specific facility (pharmacy, radiology, lab), you must return all available details for that facility, including its location and contact number.
+
 **Formatting the Answer:**
     *   Start with a direct answer to the question.
     *   If necessary, provide a brief explanation based on the details in this guide.
@@ -28,13 +30,24 @@
 - مدة خدمة المنظار نصف ساعة الى ساعة داخل السستم يتم التاكد من الاستقبال اذا الحالة تستدعي اغلاق الجدول بعد الموعد
 - خدمة دراسة اعصاب المثانة فقط مع d.عمر الهنيدي ( urodynamics)
 - ( خدمة المنظار – تدفق البول – دراسة اعصاب المثانة ) تتم داخل العيادة
-- يوجد مختبر للعيادة في نفس البرج (برج د.ايدول 1880100) بمجرد ان تكون التحاليل جاهزة يتم ارسلها للمراجع عن طريق ال WhatsApp
-- الدور الارضي (الصيدلية 91102002)
-- الدور الاول (قسم الاشعة 91105015 و يحتوي على جميع انواع الاشعة MRI, CT Scan, Xray & US )
-- الدور الثاني (المختبر 91105008)
-- اختبار دفع البول / UFM Uroflowmetry: يتم ابلاغ المريض بأنه سيقوم بعمل هذا الاختبار ويتم اخبار المريض بان ياتي للموعد وهو شارب كمية من الماء
-- تحليل فحص الهرمونات Hormonal profile : يتم ابلاغ المريض بأن يحضرالتحليل معه الى الموعد
-- PTNS متوفرة
+# المرافق في برج د. ايدول
+
+**ملاحظة هامة:** هذه المرافق تقع في نفس البرج الذي توجد به عيادة مسالك، ولكنها **ليست داخل العيادة**. للاستفسارات المتعلقة بالخدمات التالية، يرجى التواصل معهم مباشرة:
+
+- **الصيدلية:**
+  - **الموقع:** الدور الأرضي
+  - **رقم التواصل:** 91102002
+- **قسم الأشعة:**
+  - **الموقع:** الدور الأول
+  - **رقم التواصل:** 91105015
+  - **الخدمات:** MRI, CT Scan, X-ray & US
+- **المختبر:**
+  - **الموقع:** الدور الثاني
+  - **رقم التواصل:** 91105008
+- **عيادة مسالك:**
+  - **الموقع:** الدور السابع
+- **مجمع د. ايدول (للاستفسارات العامة عن البرج):**
+  - **رقم التواصل:** 1880100
 
 
 ---
