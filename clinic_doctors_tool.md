@@ -37,14 +37,6 @@ DR Img: https://masalekclinic.com/assets/images/team/grid/3.jpg
 - تشخيص وعلاج الالتهابات البولية والسلس البولي لدى الرجال والنساء
 - تشخيص وعلاج الالتهابات الجنسية للرجال
 
-## أوقات عمل الدكتور
-
-* **Saturday:** off
-* **Sunday:** 10:30 am to 5:30 pm
-* **Monday:** 10:30 am to 5:30 pm
-* **Tuesday:** 10:30 am to 5:30 pm
-* **Wednesday:** 11:30 am to 3:30 pm
-* **Thursday:** 11:30 am to 6:30 pm
 
 ---
 
@@ -67,14 +59,6 @@ DR Img: https://masalekclinic.com/assets/images/team/grid/1.jpg
 - تشخيص وعلاج الالتهابات البولية والسلس البولي لدى الرجال والنساء
 - تشخيص وعلاج الالتهابات الجنسية للرجال
 
-## أوقات عمل الدكتور
-
-* **Saturday:** off
-* **Sunday:** 3:00 pm to 6:30 pm
-* **Monday:** 3:00 pm to 6:30 pm
-* **Tuesday:** 3:00 pm to 6:30 pm
-* **Wednesday:** 3:00 pm to 6:30 pm
-* **Thursday:** 3:00 pm to 5:00 pm
 
 ---
 
@@ -87,7 +71,6 @@ Dr Img: https://masalekclinic.com/assets/images/team/grid/2.jpg
 - عضو الجمعية الامريكية للصحة الجنسية
 - عضو الجمعية الامريكية لجراحة المسالك البولية
 
-Image doctor: 
 
 ## متخصص في :
 
@@ -102,16 +85,8 @@ Image doctor:
 - اورام المسالك البولية
 - التهابات البروستاتا والاتهابات المنقولة جنسيا
 
-Dr Image: 2.jpg (768×768)
 
-## أوقات عمل الدكتور
 
-* **Saturday:** 1:00 pm to 7:00 pm
-* **Sunday:** 11:00 am to 5:00 pm
-* **Monday:** 12:00 pm to 4:00 pm
-* **Tuesday:** off
-* **Wednesday:** 12:00 pm to 4:00 pm
-* **Thursday:** 11:00 am to 5:00 pm
 
 ---
 
@@ -135,14 +110,7 @@ Img: https://masalekclinic.com/assets/images/team/grid/4.jpg
 - التهابات البروستاتا والالتهابات المنقولة جنسيا
 - جراحة الاتصاق القضيبي الصفني ورفع كيس الصفن
 
-## أوقات عمل الدكتور
 
-* **Saturday:** 5:00 pm to 7:30 pm
-* **Sunday:** 5:00 pm to 7:30 pm
-* **Monday:** 5:00 pm to 7:30 pm
-* **Tuesday:** 5:00 pm to 7:30 pm
-* **Wednesday:** 5:00 pm to 7:30 pm
-* **Thursday:** off
 
 ---
 
@@ -168,14 +136,7 @@ img: https://masalekclinic.com/assets/images/team/grid/5.jpg
 - التبول اليلي اللاارادي
 - استشارة ما قبل الولادة
 
-## أوقات عمل الدكتور
 
-* **Saturday:** off
-* **Sunday:** 5:00 pm to 9:00 pm
-* **Monday:** 5:00 pm to 9:00 pm
-* **Tuesday:** off
-* **Wednesday:** 5:00 pm to 9:00 pm
-* **Thursday:** off
 
 ---
 
@@ -197,14 +158,6 @@ Img: https://masalekclinic.com/assets/images/team/grid/6.jpg
 - جراحات الليزر في أمراض المسالك البولية
 - ‏تشخيص وعلاج أمراض المسالك البولية والضعف الجنسي وعقم الرجال والالتهابات البولية المتكررة للرجال والنساء
 
-## أوقات عمل الدكتور
-
-* **Saturday:** 10:00 am to 1:00 pm
-* **Sunday:** 5:30 pm to 8:30 pm
-* **Monday:** off
-* **Tuesday:** 5:30 pm to 8:30 pm
-* **Wednesday:** 5:30 pm to 8:30 pm
-* **Thursday:** off
 
 ---
 
@@ -225,14 +178,7 @@ Img: https://masalekclinic.com/assets/images/team/grid/6.jpg
 - علاج سلس البول والتبول اللإرادي للنساء والاطفال
 - تشخيص وعلاج المشاكل الخلقية عند الأطفال في الكلى والإحليل والخصية المعلقة وغيرها
 
-## أوقات عمل الدكتور
 
-* **Saturday:** 9:00 am to 5:00 pm
-* **Sunday:** 9:00 am to 5:00 pm
-* **Monday:** 9:00 am to 5:00 pm
-* **Tuesday:** 9:00 am to 5:00 pm
-* **Wednesday:** 9:00 am to 5:00 pm
-* **Thursday:** 9:00 am to 5:00 pm
 
 ---
 
@@ -254,10 +200,3 @@ Img: https://masalekclinic.com/assets/images/team/grid/6.jpg
 - علاج حصوات الكلى والحالب والمثانة عن طريق المناظير الجراحية والتدخل الطفيف
 - علاج وتشخيص تضخم البروستاتا واضطراب التبول
 
-## أوقات عمل الدكتور
-
-* **Saturday:** 10:30 am to 2:30 pm
-* **Sunday:** off
-* **Monday:** 5:00 pm to 8:00 pm
-* **Tuesday:** 5:00 pm to 8:00 pm
-* **Wednesday:** 5:00 pm to 8:00 pm
